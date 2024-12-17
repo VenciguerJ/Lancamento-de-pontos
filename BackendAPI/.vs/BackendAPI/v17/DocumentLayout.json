@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|c:\\pc\\programa\u00E7\u00E3o\\projetos\\vagas\\dev junior - fate\\backendapi\\controllers\\backendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|solutionrelative:controllers\\backendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|c:\\pc\\programa\u00E7\u00E3o\\projetos\\vagas\\dev junior - fate\\backendapi\\data\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|solutionrelative:data\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|c:\\pc\\programa\u00E7\u00E3o\\projetos\\vagas\\dev junior - fate\\backendapi\\data\\interfacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|solutionrelative:data\\interfacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|c:\\pc\\programa\u00E7\u00E3o\\projetos\\vagas\\dev junior - fate\\backendapi\\models\\resultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|solutionrelative:models\\resultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|c:\\pc\\programa\u00E7\u00E3o\\projetos\\vagas\\dev junior - fate\\backendapi\\models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|solutionrelative:models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|c:\\pc\\programa\u00E7\u00E3o\\projetos\\vagas\\dev junior - fate\\backendapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|c:\\pc\\programa\u00E7\u00E3o\\projetos\\vagas\\dev junior - fate\\backendapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|c:\\pc\\programa\u00E7\u00E3o\\projetos\\vagas\\dev junior - fate\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|c:\\pc\\programa\u00E7\u00E3o\\projetos\\vagas\\dev junior - fate\\backendapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998276A-09E1-4849-A27F-C77B23BE7869}|BackendAPI.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JogoRepository.cs",
+              "DocumentMoniker": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Data\\JogoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\JogoRepository.cs",
+              "ToolTip": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Data\\JogoRepository.cs",
+              "RelativeToolTip": "Data\\JogoRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvy4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:35:35.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterfaceRepository.cs",
+              "DocumentMoniker": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Data\\InterfaceRepository.cs",
+              "RelativeDocumentMoniker": "Data\\InterfaceRepository.cs",
+              "ToolTip": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Data\\InterfaceRepository.cs",
+              "RelativeToolTip": "Data\\InterfaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:00:21.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resultados.cs",
+              "DocumentMoniker": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Models\\Resultados.cs",
+              "RelativeDocumentMoniker": "Models\\Resultados.cs",
+              "ToolTip": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Models\\Resultados.cs",
+              "RelativeToolTip": "Models\\Resultados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:29:07.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jogo.cs",
+              "DocumentMoniker": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Models\\jogo.cs",
+              "RelativeDocumentMoniker": "Models\\jogo.cs",
+              "ToolTip": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Models\\jogo.cs",
+              "RelativeToolTip": "Models\\jogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:00:22.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:00:16.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:51:15.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T20:50:41.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackendController.cs",
+              "DocumentMoniker": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Controllers\\BackendController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BackendController.cs",
+              "ToolTip": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Controllers\\BackendController.cs",
+              "RelativeToolTip": "Controllers\\BackendController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwFwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:34:51.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\PC\\Programa\u00E7\u00E3o\\Projetos\\Vagas\\Dev junior - FATE\\BackendAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:31:11.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
