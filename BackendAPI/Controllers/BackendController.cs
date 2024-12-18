@@ -102,6 +102,17 @@ public class APIController : Controller
         return bestScore;
     }
 
+    public DateTime GetInitialDate(IEnumerable<Jogo> jogos)
+    {
+        DateTime initialdate = jogos.Min(j => j.DataJogo);
+        return initialdate;
+    }
+    public DateTime GetFinalDate(IEnumerable<Jogo> jogos)
+    {
+        DateTime initialdate = jogos.Max(j => j.DataJogo);
+        return initialdate;
+    }
+
     [HttpGet("consult")]
     public async Task<IActionResult> Consult()
     {
@@ -115,6 +126,8 @@ public class APIController : Controller
         view.BestScore = CalcBestScore(jogos);
         view.WrostScore = CalcWrostScore(jogos);
         view.Records = records.Count();
+        view.DataInicial = GetInitialDate(jogos).ToString("yyyy-MM-dd");
+        view.DataFinal = GetFinalDate(jogos).ToString("yyyy-MM-dd");
         return Json(view);
     }
 }   

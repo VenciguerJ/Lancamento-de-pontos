@@ -67,3 +67,4 @@ C:\PC\Programação\Projetos\Vagas\Dev junior - FATE\BackendAPI\obj\Debug\net8.0
 C:\PC\Programação\Projetos\Vagas\Dev junior - FATE\BackendAPI\obj\Debug\net8.0\BackendAPI.pdb
 C:\PC\Programação\Projetos\Vagas\Dev junior - FATE\BackendAPI\obj\Debug\net8.0\BackendAPI.genruntimeconfig.cache
 C:\PC\Programação\Projetos\Vagas\Dev junior - FATE\BackendAPI\obj\Debug\net8.0\ref\BackendAPI.dll
+C:\PC\Programação\Projetos\Vagas\Dev junior - FATE\BackendAPI\obj\Debug\net8.0\BackendAPI.sourcelink.json

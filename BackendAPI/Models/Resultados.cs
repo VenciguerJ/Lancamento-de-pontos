@@ -8,5 +8,8 @@
         public int BestScore { get; set; }
         public int WrostScore { get; set; }
         public int Records { get; set; }
+        public string DataInicial { get; set; }
+        public string DataFinal { get; set; }
+
     }
 }
